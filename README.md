@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **yashbhangale9@gmail.com**
 
+<img src="https://media.giphy.com/media/Pn6lIQBz4eCH3wS6aK/giphy.gif" width="50px">  <img src="https://media.giphy.com/media/C63JVLdaTrQt4itsXr/giphy.gif" width="50px"> <img src="https://media.giphy.com/media/M3nwJpDEUxkCzVftCi/giphy.gif" width="50px"> <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="50px"> <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="50px"> <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="50px">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/blackdracko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="blackdracko" height="30" width="40" /></a>
