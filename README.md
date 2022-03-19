@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/yashbhangale99" target="blank"><img src="https://img.shields.io/twitter/follow/yashbhangale99?logo=twitter&style=for-the-badge" alt="yashbhangale99" /></a> </p>
 
-![enthusiast,geek,explorer](https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif)
+![enthusiast,geek,explorer](https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif) 
 
 
 - 🔭 I’m currently working on [GeeksDirectory](www.geeksdirectory.com)
@@ -33,3 +33,10 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhangale&amp;theme=github_dark) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=yashbhangale&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=github_dark) |
 
 [![Yash's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashbhangale&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+
+
