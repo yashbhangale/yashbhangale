@@ -1,5 +1,5 @@
 
-![enthusiast,geek,explorer](https://github.com/yashbhangale/yashbhangale/blob/main/Yash%20Bhangale.gif?raw=true)
+![enthusiast,geek,explorer](https://github.com/yashbhangale/yashbhangale/blob/main/Untitled%20design%20(2).gif?raw=true)
 <h1 align="center">Hi 👋, I'm Yash Bhangale</h1>
 
 <h3 align="center">A passionate programmer from India</h3>
