@@ -6,6 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/yashbhangale99" target="blank"><img src="https://img.shields.io/twitter/follow/yashbhangale99?logo=twitter&style=for-the-badge" alt="yashbhangale99" /></a> </p>
 
+![enthusiast,geek,explorer](https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif)
+
+
 - 🔭 I’m currently working on [GeeksDirectory](www.geeksdirectory.com)
 
 - 👨‍💻 All of my projects are available at [https://yashbhangale9.github.io/yashbhangale/](https://yashbhangale9.github.io/yashbhangale/)
