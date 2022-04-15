@@ -9,7 +9,7 @@
 ![enthusiast,geek,explorer](https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif) 
 
 
-- 🔭 I’m currently working on [GeeksDirectory](www.geeksdirectory.com)
+- 🔭 I’m currently working on [GeeksDirectory](https://geeksdirectory.com/)
 
 - 👨‍💻 All of my projects are available at [https://yashbhangale9.github.io/yashbhangale/](https://yashbhangale9.github.io/yashbhangale/)
 
