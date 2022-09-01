@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [GeeksDirectory](https://geeksdirectory.com/)
 
-- 👨‍💻 All of my projects are available at [https://yashbhangale9.github.io/yashbhangale/](https://yashbhangale9.github.io/yashbhangale/)
+- 👨‍💻 All of my projects are available at [https://yashbhangale.me/](https://yashbhangale.me/)
 
 - 📫 How to reach me **yashbhangale9@gmail.com**
 
