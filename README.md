@@ -16,14 +16,15 @@
 - 📫 How to reach me **yashbhangale9@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/blackdracko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="blackdracko" height="30" width="40" /></a>
-<a href="https://dev.to/yashbhangale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yashbhangale" height="30" width="40" /></a>
-<a href="https://twitter.com/yashbhangale99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashbhangale99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yashbhangale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashbhangale/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18507036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18507036" height="30" width="40" /></a>
-<a href="https://discord.gg/yashuop#3158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yashuop#3158" height="30" width="40" /></a>
+<h3> 🤝🏻 Connect with Me </h3>
+<p align="center">
+&nbsp; <a href="https://www.instagram.com/theyashuop/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="mailto:yashbhangale9@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/new-post.png"  width="50" /></a>
+&nbsp; <a href="https://www.facebook.com//" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/facebook.png" width="50" /></a>
+&nbsp; <a href="https://twitter.com/yashbhangale99/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/twitter-squared.png" width="50" /></a>
+  &nbsp; <a href="https://www.linkedin.com/in/yashbhangale/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/linkedin.png" width="50" /></a>
+  
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
