@@ -25,6 +25,12 @@
   &nbsp; <a href="https://www.linkedin.com/in/yashbhangale/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/linkedin.png" width="50" /></a>
   
   
+  
+
+
+  
+  
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,6 +45,9 @@
 
 
 
-
+<p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/yashbhangale/count.svg" />
+</p>
 
 
