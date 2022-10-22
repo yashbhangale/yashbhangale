@@ -15,6 +15,11 @@
 - 📫 How to reach me **yashbhangale9@gmail.com**
 
 
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/fykaa/fykaa/blob/25348e7abdbc8075e79b0d74af5f4a1207b60fe4/github-contribution-grid-snake.svg)
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
+<br/>
+
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
 &nbsp; <a href="https://www.instagram.com/theyashuop/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/instagram-new.png" width="50" /></a>  
