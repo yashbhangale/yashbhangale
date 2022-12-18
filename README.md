@@ -45,7 +45,7 @@
 
 | ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashbhangale&amp;show_icons=true&amp;theme=github_dark) | ![Yash GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashbhangale&amp;theme=github-dark-blue	) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhangale&amp;theme=github_dark) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=yashbhangale&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=github_dark) |
+
 
 [![Yash's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashbhangale&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
