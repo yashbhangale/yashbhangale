@@ -47,6 +47,8 @@
 | --- | --- |
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhangale&layout=compact)](https://github.com/yashbhangale/github-readme-stats)
+
 
 [![Yash's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashbhangale&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
