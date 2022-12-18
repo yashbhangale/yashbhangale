@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yash Bhangale</h1>
 
-<h3 align="center">A passionate programmer from India</h3>
-
 <p align="left"> <a href="https://twitter.com/yashbhangale99" target="blank"><img src="https://img.shields.io/twitter/follow/yashbhangale99?logo=twitter&style=for-the-badge" alt="yashbhangale99" /></a> </p>
 
 ![enthusiast,geek,explorer](https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif) 
