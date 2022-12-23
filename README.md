@@ -44,10 +44,6 @@
 | ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashbhangale&amp;show_icons=true&amp;theme=github_dark) | ![Yash GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashbhangale&amp;theme=github-dark-blue	) |
 | --- | --- |
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhangale&layout=compact)](https://github.com/ashutosh00710/github-readme-stats)
-
-
 [![Yash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yashbhangale&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
