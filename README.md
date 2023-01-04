@@ -9,6 +9,7 @@ In my free time, I enjoy exploring new technologies and concepts, and I have a p
 On my GitHub account, you can find some of the projects that I have worked on and the knowledge that I have gained through my experiences. I hope that my contributions can be helpful and inspiring to others who share my interests in AI and software development
 
 
+![yashbhangale (2)](https://user-images.githubusercontent.com/68957369/210598762-551fc57c-adc5-4e39-adf8-d2fecb4a160e.png)
 
 
 
