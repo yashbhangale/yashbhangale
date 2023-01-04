@@ -1,9 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Yash Bhangale</h1>
 
-<p align="left"> <a href="https://twitter.com/yashbhangale99" target="blank"><img src="https://img.shields.io/twitter/follow/yashbhangale99?logo=twitter&style=for-the-badge" alt="yashbhangale99" /></a> </p>
 
-![enthusiast,geek,explorer](https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif) 
+As a student and developer, I am driven by a passion for artificial intelligence and a desire to continuously learn and improve my skills. I have a strong foundation in programming languages such as Python, C, and Java, and I am skilled in full stack web development. In my previous projects and internships, I have gained experience in a variety of domains, including machine learning, natural language processing, and data analysis.
+
+In my free time, I enjoy exploring new technologies and concepts, and I have a particular interest in the intersection of AI and software engineering. I am always seeking opportunities to contribute to open source projects and collaborate with others in the tech community.
+
+On my GitHub account, you can find some of the projects that I have worked on and the knowledge that I have gained through my experiences. I hope that my contributions can be helpful and inspiring to others who share my interests in AI and software development
+
+
+
 
 
 - 🔭 I’m currently working on [GeeksDirectory](https://geeksdirectory.com/)
