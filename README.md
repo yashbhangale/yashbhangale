@@ -13,7 +13,7 @@ On my GitHub account, you can find some of the projects that I have worked on an
 
 
 
-- 🔭 I’m currently working on [GeeksDirectory](https://geeksdirectory.com/)
+- 🔭 I’m currently working on [GeeksDirectory](https://geeksdirectory.tech/)
 
 - 👨‍💻 All of my projects are available at [https://yashbhangale.me/](https://yashbhangale.me/)
 
