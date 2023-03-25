@@ -2,13 +2,6 @@
 <h1 align="center">Hi 👋, I'm Yash Bhangale</h1>
 
 
-As a student and developer, I am driven by a passion for artificial intelligence and a desire to continuously learn and improve my skills. I have a strong foundation in programming languages such as Python, C, and Java, and I am skilled in full stack web development. In my previous projects and internships, I have gained experience in a variety of domains, including machine learning, natural language processing, and data analysis.
-
-In my free time, I enjoy exploring new technologies and concepts, and I have a particular interest in the intersection of AI and software engineering. I am always seeking opportunities to contribute to open source projects and collaborate with others in the tech community.
-
-On my GitHub account, you can find some of the projects that I have worked on and the knowledge that I have gained through my experiences. I hope that my contributions can be helpful and inspiring to others who share my interests in AI and software development
-
-
 ![yashbhangale (2)](https://user-images.githubusercontent.com/68957369/210598762-551fc57c-adc5-4e39-adf8-d2fecb4a160e.png)
 
 
