@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [GeeksDirectory](https://geeksdirectory.tech/)
 
-- 👨‍💻 All of my projects are available at [https://yashbhangale.github.io/](https://yashbhangale.me/)
+- 👨‍💻 All of my projects are available at [https://yashbhangale.github.io/](https://yashbhangale.github.io/)
 
 - 📫 How to reach me **yashbhangale9@gmail.com**
 
