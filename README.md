@@ -16,7 +16,7 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 
 | Projects                  | tools / languages                         | links                                                               | live links                                                | 
 | ------------------------- | ----------------------------------------- | ------------------------------------------------------------------  | --------------------------------------------------------- |
-| **my portfolio**          | react, tailwind css, mdx, gatsby, netlify | [repo link](https://github.com/yashbhangale/yashbhangale.github.io) |[live link](yashbhangale.github.io)                        |
+| **my portfolio**          | react, tailwind css, mdx, gatsby, netlify | [repo link](https://github.com/yashbhangale/yashbhangale.github.io) |[live link](https://yashbhangale.github.io/)                      |
 | **modern blog app**       | nextjs, tailwind css, GraphQL, vercel     | [repo link](https://github.com/yashbhangale/modernblog_app)         |[live link](https://modernblog-app.vercel.app/)            |
 | **linktree clone**        | vite, mongoDB, svelte, netlify            | [repo link](https://github.com/yashbhangale/my-linktree)            |[live link](https://yashbhangale.netlify.app/)             |
 | **uniswap clone**         | React, solidity, hardhat, cranq,vercel    | [repo link](https://github.com/yashbhangale/Cryptway_swap)          |[livelink](https://github.com/yashbhangale/Cryptway_swap)  |
