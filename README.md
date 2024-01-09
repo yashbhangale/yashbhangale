@@ -66,8 +66,7 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
-&nbsp; <a href="https://www.instagram.com/theyashuop/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/__itsyash/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="mailto:yashbhangale9@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/new-post.png"  width="50" /></a>
-&nbsp; <a href="https://www.facebook.com//" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/x.png" width="50" /></a>
-&nbsp; <a href="https://twitter.com/yashbhangale99/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/twitter-squared.png" width="50" /></a>
+&nbsp; <a href="https://twitter.com/archuser69" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/x.png" width="50" /></a>
   &nbsp; <a href="https://www.linkedin.com/in/yashbhangale/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/linkedin.png" width="50" /></a>
