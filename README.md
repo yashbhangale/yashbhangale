@@ -4,30 +4,44 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=yashbhangale)
 
-## full stack projects
-| Projects               | tools / languages                         | links                                                              | live links |
-|---------               |-----------------                          |-------                                                             |------------ |
-| **my portfolio**       | react, tailwind css, mdx, gatsby, netlify | [repo link](https://github.com/yashbhangale/yashbhangale.github.io)|[live link](yashbhangale.github.io)
-| **modern blog app**    | nextjs, tailwind css, GraphQL, vercel     | [repo link](https://github.com/yashbhangale/modernblog_app)        |[live link](https://modernblog-app.vercel.app/)
-| **linktree clone**     | vite, mongoDB, svelte, netlify            | [repo link](https://github.com/yashbhangale/my-linktree)           |[live link](https://yashbhangale.netlify.app/)
-| **uniswap clone**      | React, solidity, hardhat, cranq,vercel    | [repo link](https://github.com/yashbhangale/Cryptway_swap)         |[livelink](https://github.com/yashbhangale/Cryptway_swap)
-| **to-do app**          | React, css, vercel                        | [repo link](https://github.com/yashbhangale/react-todo-app)        |[live link](http://react-todo-app-seven-bay.vercel.app/)
-| **chat-app**           | React, css, expressjs, heroku             | [repo link](https://github.com/yashbhangale/react-chat-app)        |[live link](https://yashuopreactchat-app.herokuapp.com/)
-| **video-chat app**     | React, Nodejs, css, heroku                | [repo link](https://github.com/yashbhangale/basic_video_chat_app)  |[live link](https://simplevideocall.vercel.app/)
-| **movie catalouge app**| React, Rapid api ( omdb api ), css        | [repo link](https://github.com/yashbhangale/simple_movie_catalogue)|[live link](https://simplevideocall.vercel.app/)
-| **budget allocation app** | React,css, netlify | [repo link](https://github.com/yashbhangale/Budget-allocation) | [live link](https://budgetallocation.netlify.app/) |
-| **nexus os website** | React, css, netlify | [repo link](https://github.com/yashbhangale/nexusos) | [live link](https://nexusos.org.in/)|
+## DevOps Projects
+| Domain                       | Skills/Tools                                   | Projects                                                             
+|------------------------------|------------------------------------------------|---------------------------------------------------------------------
 
-## Some Other Projects
+
+
+
+
+## full stack projects
+
+| Projects                  | tools / languages                         | links                                                               | live links                                                | 
+| ------------------------- | ----------------------------------------- | ------------------------------------------------------------------  | --------------------------------------------------------- |
+| **my portfolio**          | react, tailwind css, mdx, gatsby, netlify | [repo link](https://github.com/yashbhangale/yashbhangale.github.io) |[live link](yashbhangale.github.io)                        |
+| **modern blog app**       | nextjs, tailwind css, GraphQL, vercel     | [repo link](https://github.com/yashbhangale/modernblog_app)         |[live link](https://modernblog-app.vercel.app/)            |
+| **linktree clone**        | vite, mongoDB, svelte, netlify            | [repo link](https://github.com/yashbhangale/my-linktree)            |[live link](https://yashbhangale.netlify.app/)             |
+| **uniswap clone**         | React, solidity, hardhat, cranq,vercel    | [repo link](https://github.com/yashbhangale/Cryptway_swap)          |[livelink](https://github.com/yashbhangale/Cryptway_swap)  |
+| **to-do app**             | React, css, vercel                        | [repo link](https://github.com/yashbhangale/react-todo-app)         |[live link](http://react-todo-app-seven-bay.vercel.app/)   |
+| **chat-app**              | React, css, expressjs, heroku             | [repo link](https://github.com/yashbhangale/react-chat-app)         |[live link](https://yashuopreactchat-app.herokuapp.com/)   |
+| **video-chat app**        | React, Nodejs, css, heroku                | [repo link](https://github.com/yashbhangale/basic_video_chat_app)   |[live link](https://simplevideocall.vercel.app/)           | 
+| **movie catalouge app**   | React, Rapid api ( omdb api ), css        | [repo link](https://github.com/yashbhangale/simple_movie_catalogue) |[live link](https://simplevideocall.vercel.app/)           | 
+| **budget allocation app** | React,css, netlify                        | [repo link](https://github.com/yashbhangale/Budget-allocation)      | [live link](https://budgetallocation.netlify.app/)        |  
+| **nexus os website**      | React, css, netlify                       | [repo link](https://github.com/yashbhangale/nexusos)                | [live link](https://nexusos.org.in/)                      |
+
+## Some Other web-development Projects
+
 | Projects | tools / languages | links |
 |----------|-------------------|------ |
-| website template | html, css, Js, bootstrap | [live link](https://github.com/yashbhangale/cyber-guy-website-template) |
-| Shaids static website (clg community website) | html, tailwind css | [live link](https://github.com/yashbhangale/shaids-static) |
-| GeeksDirectory | html, css, js | [live link](https://yashbhangale.github.io/Geeksdirectory/) |
-| Webfusion | html, css,js | [live link](https://github.com/yashbhangale/WebFusion) |
-| ecomm-django | django, vercel | [livelink](https://github.com/yashbhangale/ecomm-django) |
-| nextradocs | Nextjs, hugo | [repo link](https://github.com/yashbhangale/nextradocs) |
-| tic tac toe | html, css, js | [live link](https://yashbhangale.github.io/tic-tac-toe/)
+| **website template** | html, css, Js, bootstrap | [live link](https://github.com/yashbhangale/cyber-guy-website-template) |
+| **Shaids static website** (clg community website) | html, tailwind css | [live link](https://github.com/yashbhangale/shaids-static) |
+| **GeeksDirectory** | html, css, js | [live link](https://yashbhangale.github.io/Geeksdirectory/) |
+| **Webfusion** | html, css,js | [live link](https://github.com/yashbhangale/WebFusion) |
+| **ecomm-django** | django, vercel | [live link](https://github.com/yashbhangale/ecomm-django) |
+| **nextradocs** | Nextjs, hugo | [repo link](https://github.com/yashbhangale/nextradocs) |
+| **tic tac toe** | html, css, js | [live link](https://yashbhangale.github.io/tic-tac-toe/) |
+| **rock,paper,scissor** | html, css ,js | [live link](https://yashbhangale.github.io/Rock-paper_and_scissor/) |
+| **protfolio template** | html, css ,js , bootstrap | [live link](https://yashbhangale.github.io/portfolio_templet/) |
+
+## Other Projects
 
 
 
