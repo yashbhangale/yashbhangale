@@ -5,16 +5,16 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 ![Profile Views](https://komarev.com/ghpvc/?username=yashbhangale)
 
 ## full stack projects
-| Project | tools/languages | links | live links |
-|---------|-----------------|-------|------------|
-| **my portfolio** | react, tailwind css, mdx, gatsby, netlify | [portfolio link](yashbhangale.github.io) |
-| **modern blog app** | nextjs, tailwind css, GraphQL, vercel | [repo link](https://github.com/yashbhangale/modernblog_app) |
-| **linktree clone** | vite, mongoDB, svelte, netlify | [repo link](https://github.com/yashbhangale/my-linktree) |
-| **uniswap clone** | React, solidity, hardhat, cranq,vercel | [repo link](https://github.com/yashbhangale/Cryptway_swap)  |
-| **to-do app** | React, css, vercel | [repo link](https://github.com/yashbhangale/react-todo-app) |
-| **chat-app** | React, css, expressjs, heroku | [repo link](https://github.com/yashbhangale/react-chat-app) |
-| **video-chat app** | React, Nodejs, css, heroku | [repo link](https://github.com/yashbhangale/basic_video_chat_app) |
-| **movie catalouge app** | React, Rapid api ( omdb api ), css | [repo link](https://github.com/yashbhangale/simple_movie_catalogue)| 
+| Project                | tools/languages                           | links                                                              | live links |
+|---------               |-----------------                          |-------                                                             |------------ |
+| **my portfolio**       | react, tailwind css, mdx, gatsby, netlify | [repo link](https://github.com/yashbhangale/yashbhangale.github.io)|[live link](yashbhangale.github.io)
+| **modern blog app**    | nextjs, tailwind css, GraphQL, vercel     | [repo link](https://github.com/yashbhangale/modernblog_app)        |[live link](https://modernblog-app.vercel.app/)
+| **linktree clone**     | vite, mongoDB, svelte, netlify            | [repo link](https://github.com/yashbhangale/my-linktree)           |[live link](https://yashbhangale.netlify.app/)
+| **uniswap clone**      | React, solidity, hardhat, cranq,vercel    | [repo link](https://github.com/yashbhangale/Cryptway_swap)         |[livelink](https://github.com/yashbhangale/Cryptway_swap)
+| **to-do app**          | React, css, vercel                        | [repo link](https://github.com/yashbhangale/react-todo-app)        |[live link](http://react-todo-app-seven-bay.vercel.app/)
+| **chat-app**           | React, css, expressjs, heroku             | [repo link](https://github.com/yashbhangale/react-chat-app)        |[live link](https://yashuopreactchat-app.herokuapp.com/)
+| **video-chat app**     | React, Nodejs, css, heroku                | [repo link](https://github.com/yashbhangale/basic_video_chat_app)  |[live link](https://simplevideocall.vercel.app/)
+| **movie catalouge app**| React, Rapid api ( omdb api ), css        | [repo link](https://github.com/yashbhangale/simple_movie_catalogue)|[lice link](https://simplevideocall.vercel.app/)
 
 
 
