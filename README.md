@@ -43,6 +43,15 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 
 ## Other Projects
 
+| name  | Domain | tools / languages | links|
+|-------|--------|-------------------|------|
+|Nexus OS| Linux | shell scripting, C, Python, Docker, AWS | [repo](https://github.com/yashbhangale/nexusos)
+|traffic management sys |automation| Python , open CV | [repo](https://github.com/yashbhangale/traffic-management-system)
+|tic tac toe |game development| java | [repo](https://github.com/yashbhangale/tiktactoe_java)
+|pygame Pong |game development|pygame, python | [repo](https://github.com/yashbhangale/Pygame_pong)
+|pong unity |game development|unity, c# | [repo](https://github.com/yashbhangale/pong_unity)
+| space runner |game development| unity c# | [repo](https://github.com/yashbhangale/spacerunner_unity)
+| share it | python programming | python, socket| [repo](https://github.com/yashbhangale/share-it-using-python)
 
 
 
