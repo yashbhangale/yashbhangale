@@ -14,7 +14,7 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 | **to-do app**          | React, css, vercel                        | [repo link](https://github.com/yashbhangale/react-todo-app)        |[live link](http://react-todo-app-seven-bay.vercel.app/)
 | **chat-app**           | React, css, expressjs, heroku             | [repo link](https://github.com/yashbhangale/react-chat-app)        |[live link](https://yashuopreactchat-app.herokuapp.com/)
 | **video-chat app**     | React, Nodejs, css, heroku                | [repo link](https://github.com/yashbhangale/basic_video_chat_app)  |[live link](https://simplevideocall.vercel.app/)
-| **movie catalouge app**| React, Rapid api ( omdb api ), css        | [repo link](https://github.com/yashbhangale/simple_movie_catalogue)|[lice link](https://simplevideocall.vercel.app/)
+| **movie catalouge app**| React, Rapid api ( omdb api ), css        | [repo link](https://github.com/yashbhangale/simple_movie_catalogue)|[live link](https://simplevideocall.vercel.app/)
 
 
 
