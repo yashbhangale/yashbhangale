@@ -11,9 +11,9 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 | GeeksDirectory            | hugo, typescript, scss, netlify           | [repo link](https://github.com/yashbhangale/geeksdirhugo)           | [live link](https://geeksdirectory.netlify.app/)          |
 
 ## DevOps Projects
-| Domain                       | Skills/Tools                                   | Projects                                                             
-|------------------------------|------------------------------------------------|---------------------------------------------------------------------
-
+| Domain                       | Skills/Tools                                   | Projects                                                             |
+|------------------------------|------------------------------------------------|---------------------------------------------------------------------|
+|    Cloud (azure)             | Azure , virtual machines , app based vms       | ![repo link](https://github.com/yashbhangale/dmce04)                 |
 
 
 
