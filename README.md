@@ -13,7 +13,7 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 ## DevOps Projects
 | Domain                       | Skills/Tools                                   | Projects                                                             |
 |------------------------------|------------------------------------------------|---------------------------------------------------------------------|
-|    Cloud (azure)             | Azure , virtual machines , app based vms       | ![repo link](https://github.com/yashbhangale/dmce04)                 |
+|    Cloud (azure)             | Azure , virtual machines , app based vms       | [repo link](https://github.com/yashbhangale/dmce04)                 |
 
 
 
