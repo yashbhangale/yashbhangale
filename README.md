@@ -1,4 +1,4 @@
-# hii I'm Yash Bhangale <span class="wave">👋</span>
+# Hii I'm Yash Bhangale <span class="wave">👋</span>
 I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, passionate about exploring the realms of full-stack development and DevOps. I enjoy diving into new technologies and solving real-world challenges. Constantly learning and growing in the intersection of AI, data, and software engineering. Let's connect and innovate together!
 <br>
 <br>
