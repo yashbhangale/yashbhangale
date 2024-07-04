@@ -4,8 +4,12 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=yashbhangale)
 
-## currently working on 
+## Certifications
+| Name                      | resources links                           | 
+| ------------------------- | ----------------------------------------- | 
+| AZURE (DP-900)            | [Resource link](https://github.com/yashbhangale/certifications/blob/main/Azure%20(DP-900)/DP-900-1.pdf) | 
 
+## currently working on 
 | Projects                  | tools / languages                         | links                                                               | live links                                                | 
 | ------------------------- | ----------------------------------------- | ------------------------------------------------------------------  | --------------------------------------------------------- |
 | GeeksDirectory            | hugo, typescript, scss, netlify           | [repo link](https://github.com/yashbhangale/geeksdirhugo)           | [live link](https://geeksdirectory.github.io/)          |
