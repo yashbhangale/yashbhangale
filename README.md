@@ -18,6 +18,7 @@ I'm a 4th-year Artificial Intelligence and Data Science Engineering student, pas
 | Domain                       | Skills/Tools                                   | Projects                                                             |
 |------------------------------|------------------------------------------------|---------------------------------------------------------------------|
 |    Cloud (azure)             | Azure , virtual machines , app based vms       | [repo link](https://github.com/yashbhangale/dmce04)                 |
+| Helm with k8s                | k8s, helm, minikube                            | [repo link](https://github.com/yashbhangale/learn-kube-with-helm)   |     
 
 
 
