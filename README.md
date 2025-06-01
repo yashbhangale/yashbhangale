@@ -1,29 +1,53 @@
 # Hii I'm Yash Bhangale <span class="wave">👋</span>
-I'm a 4th-year Artificial Intelligence and Data Science Engineering student, passionate about exploring the realms of full-stack development and DevOps. I enjoy diving into new technologies and solving real-world challenges. Constantly learning and growing in the intersection of AI, data, and software engineering. Let's connect and innovate together!
+21, DevOps / Cloud, Mumbai
 <br>
-<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=yashbhangale)
+
+## Skills
+
+- **Languages:** Python, Java, Shell, PowerShell, SQL  
+- **DevOps:** Jenkins, Git, CI/CD, Terraform  
+- **Cloud Platforms:** AWS, Azure  
+- **Containers & Orchestration:** Docker, Kubernetes  
+- **Scripting:** Bash, Python  
+- **Monitoring & Logging:** Grafana, Prometheus, Signoz  
+- **Virtualization:** KVM  
+- **Other Tools:** Jira, Linux
+
+## My Socials
+- **Linkedin:** https://in.linkedin.com/in/yashbhangale
+- **My Portfolio:** https://yashbhangale.github.com
+- **Twitter / X:** https://x.com/ttrubleshooter
+
+
+
+## Currently Working On 
+| Projects                  | tools / languages                         | links                                                               | live links                                                | 
+| ------------------------- | ----------------------------------------- | ------------------------------------------------------------------  | --------------------------------------------------------- |
+| Project Nanite            | Linux, KVM, Rust, Python, Terraform, AWS  | [Repo Link](https://github.com/Project-Nanite)                      | [Live Link]()                                             | 
+| GeeksDirectory            | hugo, typescript, scss, netlify           | [Repo Link](https://github.com/yashbhangale/geeksdirhugo)           | [Live Link](https://geeksdirectory.github.io/)            |
 
 ## Certifications
 | Name                      | resources links                           | 
 | ------------------------- | ----------------------------------------- | 
-| AZURE (DP-900)            | [Resource link](https://github.com/yashbhangale/certifications/blob/main/Azure%20(DP-900)/DP-900-1.pdf) | 
+| Azure (DP-900)            | [Resource link](https://github.com/yashbhangale/certifications/blob/main/Azure%20(DP-900)/DP-900-1.pdf) | 
+| Azure (AZ-900)            | [Resource Link]() |
+| Azure (AI-900)            | [Resource link]() |
+| Azure (AZ-104)            | [Resource link]() |
+| CKA                       | [Resource link]() |
 
-## currently working on 
-| Projects                  | tools / languages                         | links                                                               | live links                                                | 
-| ------------------------- | ----------------------------------------- | ------------------------------------------------------------------  | --------------------------------------------------------- |
-| GeeksDirectory            | hugo, typescript, scss, netlify           | [repo link](https://github.com/yashbhangale/geeksdirhugo)           | [live link](https://geeksdirectory.github.io/)          |
 
 ## DevOps Projects
-| Domain                       | Skills/Tools                                   | Projects                                                             |
+| Domain                       | Skills/Tools                                   | Projects                                                            |
 |------------------------------|------------------------------------------------|---------------------------------------------------------------------|
 |    Cloud (azure)             | Azure , virtual machines , app based vms       | [repo link](https://github.com/yashbhangale/dmce04)                 |
-| Helm with k8s                | k8s, helm, minikube                            | [repo link](https://github.com/yashbhangale/learn-kube-with-helm)   |     
+| Helm with k8s                | k8s, helm, minikube                            | [repo link](https://github.com/yashbhangale/learn-kube-with-helm)   |
 
 
 
 
-## full stack projects
+## Full Stack Projects
 
 | Projects                  | tools / languages                         | links                                                               | live links                                                | 
 | ------------------------- | ----------------------------------------- | ------------------------------------------------------------------  | --------------------------------------------------------- |
@@ -64,10 +88,6 @@ I'm a 4th-year Artificial Intelligence and Data Science Engineering student, pas
 | space runner |game development| unity c# | [repo](https://github.com/yashbhangale/spacerunner_unity)
 | share it | python programming | python, socket| [repo](https://github.com/yashbhangale/share-it-using-python)
 
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
 
 
