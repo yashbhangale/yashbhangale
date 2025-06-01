@@ -15,6 +15,10 @@
 - **Virtualization:** KVM  
 - **Other Tools:** Jira, Linux
 
+## My Resume
+
+https://bit.ly/yashbhangaleresume1
+
 ## My Socials
 - **Linkedin:** https://in.linkedin.com/in/yashbhangale
 - **My Portfolio:** https://yashbhangale.github.com
