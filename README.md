@@ -1,4 +1,4 @@
-# Hii I'm Yash Bhangale <span class="wave">👋</span>  
+# Hii I'm Yash Bhangale <span class="wave">👋</span>
 21, DevOps / Cloud, Mumbai  
 <br>
 
@@ -8,22 +8,20 @@
 
 <table>
 <tr>
-<td style="vertical-align: top;">
+<td>
 
-<ul>
-  <li><strong>Languages:</strong> Python, Java, Shell, PowerShell, SQL</li>
-  <li><strong>DevOps:</strong> Jenkins, Git, CI/CD, Terraform</li>
-  <li><strong>Cloud Platforms:</strong> AWS, Azure</li>
-  <li><strong>Containers & Orchestration:</strong> Docker, Kubernetes</li>
-  <li><strong>Scripting:</strong> Bash, Python</li>
-  <li><strong>Monitoring & Logging:</strong> Grafana, Prometheus, Signoz</li>
-  <li><strong>Virtualization:</strong> KVM</li>
-  <li><strong>Other Tools:</strong> Jira, Linux</li>
-</ul>
+- **Languages:** Python, Java, Shell, PowerShell, SQL  
+- **DevOps:** Jenkins, Git, CI/CD, Terraform  
+- **Cloud Platforms:** AWS, Azure  
+- **Containers & Orchestration:** Docker, Kubernetes  
+- **Scripting:** Bash, Python  
+- **Monitoring & Logging:** Grafana, Prometheus, Signoz  
+- **Virtualization:** KVM  
+- **Other Tools:** Jira, Linux  
 
 </td>
-<td style="vertical-align: top; padding-left: 20px;">
-  <img src="https://github.com/user-attachments/assets/55d72a4f-46eb-490b-9e91-4117f32329ca" width="300">
+<td>
+  <img src="https://github.com/user-attachments/assets/55d72a4f-46eb-490b-9e91-4117f32329ca" width="180">
 </td>
 </tr>
 </table>
